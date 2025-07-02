@@ -38,6 +38,6 @@ public class clsAcople {
 
     @Override
     public String toString() {
-        return "Acople: " + nombre + " Permanente: " + permanente " Uso: " + uso;
+        return "Acople: " + nombre + " Permanente: " + permanente + " Uso: " + uso;
     }
 }
